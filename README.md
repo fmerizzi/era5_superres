@@ -17,7 +17,7 @@ original image
 low res image 
 
 
-![b]([https://github.com/fmerizzi/era5_superres/blob/main/images/lowres.png)
+![b](https://github.com/fmerizzi/era5_superres/blob/main/images/lowres.png)
 
 
 prediction image  
@@ -35,9 +35,17 @@ upcubic image
 ### PSNR 
 
 psnr for preditction-> 37.79356977061858
+
+
+
+
 psnr for bicubic-> 39.83953856869394
 
 ### MSE 
 
 mse for preditction-> 9.029675925925925
+
+
+
+
 mse for bicubic-> 4.9872453703703705
